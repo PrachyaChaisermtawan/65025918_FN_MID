@@ -1,0 +1,45 @@
+.art{
+    width: 300px;
+    height: 300px;
+    float: left;
+    display: flex;
+}
+.container{
+    width: 300px;
+    height:300px;
+    float: right;
+}
+.Login{
+    background: gray;
+    align-items: center;
+    display: flex;
+    width: 200px;
+    height: 50px;
+    justify-content: center;
+}
+.Pass{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    width: 200px;
+    height: 50px;
+}
+.sigingg{
+    border: dotted 2px black;
+    align-items: center;
+    display: flex;
+    width: 200px;
+    height: 50px;
+    justify-content: center;
+}
+.logingg{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    width: 200px;
+    height: 50px;
+}
+.EMAIL{
+    text-decoration-line: underline;
+    
+}
